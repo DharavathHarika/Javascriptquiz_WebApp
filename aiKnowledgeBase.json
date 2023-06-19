@@ -1,0 +1,24 @@
+{
+  "aiKnowledgeBase": {
+    "what is ajax": "AJAX stands for Asynchronous JavaScript and XML. It is a set of web development techniques that allows for the asynchronous exchange of data between a web browser and a server.",
+    "what is json": "JSON stands for JavaScript Object Notation. It is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate.",
+    "how to send ajax request": "To send an HTTP request using AJAX, you can use the XMLHttpRequest object in JavaScript. You can use the `open` method to specify the HTTP method and URL, and the `send` method to send the request.",
+    "what does json.parse do": "The JSON.parse() method in JavaScript is used to parse a JSON string and convert it into a JavaScript object.",
+    "which object is used for ajax requests": "The XMLHttpRequest object is commonly used to perform AJAX requests in JavaScript.",
+    "what is the purpose of xmlhttprequest readystate": "The XMLHttpRequest readyState property stores the status of an AJAX request. It indicates the state of the XMLHttpRequest object, such as whether the request has been sent, received, or completed.",
+    "how can you send an ajax request using jquery": "You can use the `$.ajax()` function or the shorthand methods such as `$.get()`, `$.post()`, etc., to send an AJAX request using jQuery.",
+    "what are the core http methods used in ajax requests": "The core HTTP methods used in AJAX requests are GET and POST. Additional methods like PUT and DELETE can also be used.",
+    "how do you handle errors in ajax requests": "You can use the `error` callback function or the `fail()` method to handle errors in AJAX requests.",
+    "what is the purpose of the `dataType` option in an ajax request": "The `dataType` option in an AJAX request specifies the type of data that is expected in the response from the server, such as 'json', 'xml', 'html', etc.",
+    "how can you send data to the server in an ajax request": "You can include data in the request payload using the `data` option or by serializing a form using the `serialize()` method in an AJAX request.",
+    "what is the difference between synchronous and asynchronous ajax requests": "Synchronous AJAX requests block the execution of code until a response is received, while asynchronous requests allow code execution to continue without waiting for a response.",
+    "how do you handle cross-origin requests in ajax": "You can enable Cross-Origin Resource Sharing (CORS) on the server and include appropriate response headers, or use JSONP for cross-domain requests in AJAX.",
+    "what is the purpose of the `beforeSend` callback function in an ajax request": "The `beforeSend` callback function in an AJAX request is called before the request is sent and allows you to modify the request headers or perform other setup tasks.",
+    "how do you parse a json string in javascript": "You can use the `JSON.parse()` method in JavaScript to parse a JSON string and convert it into a JavaScript object.",
+    "can ajax requests be made to different domains": "AJAX requests are subject to the same-origin policy, which restricts requests to the same domain, unless proper CORS headers are set on the server.",
+    "how do you handle success in ajax requests": "You can use the `success` callback function or the `done()` method to handle successful responses in AJAX requests.",
+    "what are the advantages of using json over xml": "JSON is generally more lightweight, easier to read and write for humans, and easier to parse and generate for machines compared to XML.",
+    "what is the purpose of the `complete` callback function in an ajax request": "The `complete` callback function in an AJAX request is called when the request is completed, regardless of whether it was successful or not. It allows you to perform cleanup tasks or handle the response.",
+    "how do you handle timeouts in ajax requests": "You can set the `timeout` option to specify the maximum time allowed for the request to complete, and handle the timeout using the `timeout` callback function or the `fail()` method."
+  }
+}

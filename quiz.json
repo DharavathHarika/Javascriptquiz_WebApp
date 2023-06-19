@@ -1,0 +1,169 @@
+{
+  "questions": [
+    {
+      "question": "What is ajax?",
+      "options": [
+        "a) Asynchronous JavaScript and XML",
+        "b) Automatic JavaScript and XHTML",
+        "c) Active JavaScript and XML",
+        "d) Asynchronous JSON and XML"
+      ],
+      "answer": "a",
+      "rank": "easy"
+    },
+    {
+      "question": "What is JSON?",
+      "options": [
+        "a) JavaScript Oriented Notation",
+        "b) JavaScript Object Notation",
+        "c) JavaScript Online Navigator",
+        "d) JavaScript Ordered Network"
+      ],
+      "answer": "b",
+      "rank": "easy"
+    },
+    {
+      "question": "Which method is used to send an HTTP request in AJAX?",
+      "options": [
+        "a) GET",
+        "b) POST",
+        "c) PUT",
+        "d) DELETE"
+      ],
+      "answer": "a",
+      "rank": "easy"
+    },
+    {
+      "question": "What is the purpose of XMLHttpRequest object in AJAX?",
+      "options": [
+        "a) To send an HTTP request and receive a response",
+        "b) To manipulate JSON data",
+        "c) To parse XML documents",
+        "d) To create dynamic HTML elements"
+      ],
+      "answer": "a",
+      "rank": "easy"
+    },
+    {
+      "question": "Which function is used to handle the response in AJAX?",
+      "options": [
+        "a) onreadystatechange",
+        "b) onload",
+        "c) onerror",
+        "d) ontimeout"
+      ],
+      "answer": "a",
+      "rank": "easy"
+    },
+    {
+      "question": "What is the content type header for JSON data?",
+      "options": [
+        "a) application/json",
+        "b) text/json",
+        "c) application/javascript",
+        "d) text/javascript"
+      ],
+      "answer": "a",
+      "rank": "medium"
+    },
+    {
+      "question": "Which method is used to parse a JSON string into a JavaScript object?",
+      "options": [
+        "a) JSON.parse()",
+        "b) JSON.stringify()",
+        "c) JSON.serialize()",
+        "d) JSON.decode()"
+      ],
+      "answer": "a",
+      "rank": "medium"
+    },
+    {
+      "question": "Which method is used to convert a JavaScript object into a JSON string?",
+      "options": [
+        "a) JSON.stringify()",
+        "b) JSON.parse()",
+        "c) JSON.serialize()",
+        "d) JSON.encode()"
+      ],
+      "answer": "a",
+      "rank": "medium"
+    },
+    {
+      "question": "What is the syntax for making an AJAX request using jQuery?",
+      "options": [
+        "a) $.ajax()",
+        "b) $.request()",
+        "c) $.http()",
+        "d) $.xhr()"
+      ],
+      "answer": "a",
+      "rank": "medium"
+    },
+    {
+      "question": "Which HTTP method is commonly used to retrieve data using AJAX?",
+      "options": [
+        "a) GET",
+        "b) POST",
+        "c) PUT",
+        "d) DELETE"
+      ],
+      "answer": "a",
+      "rank": "medium"
+    },
+    {
+      "question": "What is the purpose of JSONP in AJAX?",
+      "options": [
+        "a) To prevent cross-site scripting (XSS) attacks",
+        "b) To handle JSON responses asynchronously",
+        "c) To allow cross-domain data retrieval",
+        "d) To compress JSON data for faster transmission"
+      ],
+      "answer": "c",
+      "rank": "hard"
+    },
+    {
+      "question": "Which property of the XMLHttpRequest object is used to retrieve the server response?",
+      "options": [
+        "a) responseText",
+        "b) responseXML",
+        "c) status",
+        "d) statusText"
+      ],
+      "answer": "a",
+      "rank": "hard"
+    },
+    {
+      "question": "What is the default HTTP status code for a successful AJAX request?",
+      "options": [
+        "a) 200",
+        "b) 300",
+        "c) 400",
+        "d) 500"
+      ],
+      "answer": "a",
+      "rank": "hard"
+    },
+    {
+      "question": "Which JavaScript method is used to convert a JavaScript object into a string representation?",
+      "options": [
+        "a) JSON.stringify()",
+        "b) JSON.parse()",
+        "c) JSON.serialize()",
+        "d) JSON.encode()"
+      ],
+      "answer": "a",
+      "rank": "hard"
+    },
+    {
+      "question": "What is the role of the same-origin policy in AJAX?",
+      "options": [
+        "a) To prevent cross-site scripting (XSS) attacks",
+        "b) To allow cross-domain data retrieval",
+        "c) To handle JSON responses asynchronously",
+        "d) To enforce security restrictions on AJAX requests"
+      ],
+      "answer": "d",
+      "rank": "hard"
+    }
+  ]
+}
